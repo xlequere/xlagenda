@@ -22,6 +22,7 @@ Ce programme utilise des applications et bibliothèques tierces :
 **Principaux bugs corrigés**
 
 - Résolution d'un problème pouvant empêcher l'installation de l'application
+- Résolution d'un problème pouvant empêcher l'ajout d'une catégorie sans couleur
 
 
 ### 08/05/16 - version 4.4
