@@ -2,8 +2,8 @@
 /*********************************************************************
 *	XLAgenda 4 par Xavier LE QUERE
 *   Web : http://xavier.lequere.net/xlagenda
-*   (C) Xavier LE QUERE, 2003-2019
-*   Version 4.5 - 13/10/19
+*   (C) Xavier LE QUERE, 2003-2020
+*   Version 4.5.1 - 25/02/20
 *
 *   This program is free software: you can redistribute it and/or modify
 *   it under the terms of the GNU General Public License as published by
@@ -272,7 +272,7 @@ if ($authorised == 1)
 			$gerer_user=$ligne["gerer"];
 			$actif=$ligne["actif"];
 			//MODE DEMO OU MODIFICATION DE L'UTILISATEUR COURANT
-			if (((isset($demo) && $demo) && $user == "demo") || $id ==  )
+			if ((!empty($demo) && $user == "demo") || $id ==  $_SESSION['user_id'])
 			{
 				$erreur = $lang['admin_erreur_modif_user_unauthorized'];
 			}

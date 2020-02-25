@@ -2,8 +2,8 @@
 /******************************************************************
 *	XLAgenda 4 par Xavier LE QUERE
 *   Web : http://xavier.lequere.net/xlagenda
-*   (C) Xavier LE QUERE, 2003-2019
-*   Version 4.5 - 13/10/19
+*   (C) Xavier LE QUERE, 2003-2020
+*   Version 4.5.1 - 25/02/20
 *
 *   This program is free software: you can redistribute it and/or modify
 *   it under the terms of the GNU General Public License as published by
@@ -40,7 +40,7 @@ $table_demande="xlagenda_demande"; //NOM DE LA TABLE DES DEMANDES DE COMPTES
 $table_config="xlagenda_config"; //NOM DE LA TABLE DES PARAMETRES
 
 //URL DES PAGES
-$path_agenda="xlagenda/xlagenda"; //ACCES A L'AGENDA PAR RAPPORT A LA RACINE DU SITE
+$path_agenda="xlagenda"; //ACCES A L'AGENDA PAR RAPPORT A LA RACINE DU SITE
 $url_page="index.php"; //URL DE LA PAGE DE L'AGENDA
 $url_compte="compte.php"; //URL DE LA PAGE DE DEMANDE DE COMPTE
 $url_recherche="rechercher.php"; //URL DE LA PAGE DE RECHERCHE

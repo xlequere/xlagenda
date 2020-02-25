@@ -2,8 +2,8 @@
 /******************************************************************
 *	XLAgenda 4 par Xavier LE QUERE
 * Web : http://xavier.lequere.net/xlagenda
-* (C) Xavier LE QUERE, 2003-2019
-* Version 4.5 - 13/10/19
+* (C) Xavier LE QUERE, 2003-2020
+* Version 4.5.1 - 25/02/20
 *
 * This program is free software: you can redistribute it and/or modify
 * it under the terms of the GNU General Public License as published by

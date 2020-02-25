@@ -2,8 +2,8 @@
 
 XLAgenda 4 par Xavier LE QUERE
 Web : <https://xavier.lequere.net/xlagenda>
-(C) Xavier LE QUERE, 2003-2019
-Version 4.5 - 13/10/19
+(C) Xavier LE QUERE, 2003-2020
+Version 4.5.1 - 25/02/20
 
 Ce programme utilise des applications et bibliothèques tierces :
 - Tiny MCE, par Moxiecode Systems : http://tinymce.moxiecode.com
@@ -37,4 +37,4 @@ Avec certains hébergeurs, cette opération n'est pas possible, mais les répert
 
 - Pour insérer l'agenda dans votre site, vous pouvez ajouter votre code HTML avant et après l'agenda en éditant les fichiers xlagenda/include/header.php et xlagenda/include/footer.php
 - Pour modifier le style, éditez le fichier xlagenda/include/style.css
-- Pour modifier les textes, éditez les fichiers xlagenda44/lang/fr/common.php et xlagenda/lang/fr/admin.xlagenda
+- Pour modifier les textes, éditez les fichiers xlagenda/lang/fr/common.php et xlagenda/lang/fr/admin.xlagenda
