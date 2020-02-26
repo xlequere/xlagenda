@@ -1,9 +1,9 @@
-# XLAgenda 4.5
+# XLAgenda 4.5.2
 
 XLAgenda 4 par Xavier LE QUERE
 Web : <https://xavier.lequere.net/xlagenda>
 (C) Xavier LE QUERE, 2003-2020
-Version 4.5.1 - 25/02/20
+Version 4.5.2 - 26/02/20
 
 Ce programme utilise des applications et bibliothèques tierces :
 - Tiny MCE, par Moxiecode Systems : http://tinymce.moxiecode.com
@@ -12,6 +12,18 @@ Ce programme utilise des applications et bibliothèques tierces :
 - jQuery 1.2.6, par John Resig : www.jquery.com
 
 ## Evolution du produit
+
+### 26/02/20 - version 4.5.2
+
+**Principaux bugs corrigés**
+
+- Résolution d'un problème empêchant l'affichage des rendez-vous d'un jour sélectionné
+
+### 25/02/20 - version 4.5.1
+
+**Principaux bugs corrigés**
+
+- Résolution d'un problème empêchant l'ajout d'un utilisateur
 
 ### 13/19/19 - version 4.5
 
